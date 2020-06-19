@@ -10,6 +10,6 @@ Here I'll be merging the notes of these two books. Using jupyter notebook, I'd a
 
 2020/6/11 Uploaded Week 1 Notes and images (image/W1/)
 
-2020/6/13 Branched twices to test how .md works on Github
+2020/6/13 Branched twice to test how .md works on Github
 
 2020/6/19 Uploaded Week 2 Notes and images (iamge/W2/) and some other packages (sift.exe & vl.dll for SIFT)
