@@ -13,3 +13,5 @@ Here I'll be merging the notes of these two books. Using jupyter notebook, I'd a
 2020/6/13 Branched twice to test how .md works on Github
 
 2020/6/19 Uploaded Week 2 Notes and images (iamge/W2/) and some other packages (sift.exe & vl.dll for SIFT)
+
+2020/6/30 Rearrange folders and files, and uploaded week 3 notes and slides.
